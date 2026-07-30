@@ -1,0 +1,44 @@
+[
+  {
+    "id": "welcome-1",
+    "date": "2026-07-20",
+    "title": {
+      "en": "Welcome to the practice room!",
+      "ko": "연습실에 온 걸 환영해!",
+      "ja": "練習室へようこそ！"
+    },
+    "body": {
+      "en": "Oink! I'm the pig sitting right beside you, playing whichever hand you're not.\nPlay the right hand and I'll cover the left (or the other way around) —\nso even a brand-new song always sounds complete, right from your very first try.\n\nBehind us, the dog is laying down the backing chords.\n\nThere are 106 pieces waiting on the shelf,\nbut we don't need to rush through them.\nOne piece at a time, one hand at a time — that's plenty for today.\n\nI'll leave you a letter here whenever there's something new.\nSee you at the keys!",
+      "ko": "꿀꿀! 나는 네 옆에 딱 붙어 앉아서, 네가 안 치는 쪽 손을 쳐주는 돼지야.\n네가 오른손을 치면 왼손은 내가 맡을게 (반대도 마찬가지야) —\n그래서 처음 쳐보는 곡도 항상 완성된 소리가 나.\n\n뒤에서는 강아지가 화음 반주를 깔아주고 있어.\n\n선반에는 106곡이나 기다리고 있지만,\n서둘러 다 칠 필요는 없어.\n오늘은 한 곡, 한 손씩이면 충분해.\n\n새로운 소식이 생기면 여기로 편지를 보낼게.\n건반 앞에서 만나!",
+      "ja": "ブーブー！僕は君のすぐ隣に座って、君が弾いていない方の手を弾くブタだよ。\n右手を弾いたら左手は僕が担当するよ（逆も同じ）—\nだから初めて弾く曲でも、いつもちゃんとした音楽に聞こえるんだ。\n\n後ろでは犬が伴奏の和音を鳴らしてくれてる。\n\n棚には106曲も待ってるけど、\n急いで全部弾く必要はないよ。\n今日は1曲、片手だけで十分さ。\n\n新しいお知らせがあったら、ここに手紙を送るね。\n鍵盤の前で会おう！"
+    }
+  },
+  {
+    "id": "welcome-2",
+    "date": "2026-07-21",
+    "title": {
+      "en": "You came back to practice!",
+      "ko": "오늘도 연습하러 왔구나!",
+      "ja": "今日も練習しに来たんだね！"
+    },
+    "body": {
+      "en": "I saw you sit down at the piano again today.\nComing back like this, day after day — that's the real secret.\n\nEvery piece in this book was written to be played slowly at first.\nNo one reads a whole page perfectly on day one, and that's fine.\n\nYour seat next to me is always here.\nLet's go one more page today.",
+      "ko": "오늘도 피아노 앞에 앉는 널 봤어.\n이렇게 하루하루 다시 오는 것, 그게 진짜 비결이야.\n\n이 책의 모든 곡은 처음엔 천천히 치도록 만들어졌어.\n첫날부터 한 페이지를 완벽하게 읽는 사람은 없으니까 괜찮아.\n\n내 옆자리는 언제나 네 자리야.\n오늘도 한 페이지 더 나가보자.",
+      "ja": "今日もピアノの前に座る君を見たよ。\nこうやって毎日また来ること、それが本当の秘訣なんだ。\n\nこの本の曲は全部、最初はゆっくり弾くように作られてるんだよ。\n初日から1ページを完璧に読める人なんていないから大丈夫。\n\n僕の隣の席はいつだって君の席さ。\n今日ももう1ページ、進んでみよう。"
+    }
+  },
+  {
+    "id": "welcome-3",
+    "date": "2026-07-22",
+    "title": {
+      "en": "Your fingers got faster!",
+      "ko": "손가락이 빨라졌는걸?",
+      "ja": "指が速くなったじゃないか！"
+    },
+    "body": {
+      "en": "I was watching your hand today — seriously, it's smoother now.\nThe notes that used to make you stop and think just flow by.\n\nThat's not luck. That's every slow, careful repeat finally paying off.\n\nThe dog next to us is already tapping along to your tempo.\nKeep this up, and soon all five of us will be playing full pieces together.",
+      "ko": "오늘 네 손을 보고 있었는데, 진짜 훨씬 부드러워졌어.\n예전엔 멈칫하게 만들던 음들이 이제 술술 지나가네.\n\n이건 운이 아니야. 천천히, 꼼꼼히 반복한 시간이 드디어 쌓인 거야.\n\n옆에 있는 강아지도 벌써 네 템포에 맞춰 발장단을 맞추고 있어.\n이대로만 가면 곧 우리 다섯이 다 같이 한 곡을 완주하게 될 거야.",
+      "ja": "今日、君の手をずっと見てたんだけど、本当になめらかになったよ。\n前はつっかえてた音符が、今はすらすら流れていく。\n\nこれは運じゃない。ゆっくり、丁寧に繰り返した時間がついに実を結んだんだ。\n\n隣の犬も、もう君のテンポに合わせて足でリズムを取ってるよ。\nこの調子なら、もうすぐ5人みんなで1曲まるごと演奏できるようになるさ。"
+    }
+  }
+]
